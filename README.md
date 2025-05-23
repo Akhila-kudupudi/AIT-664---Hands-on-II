@@ -1,4 +1,4 @@
-# AIT-664---Hands-on-II
+# AIT-664---Hands-on-II - Machine Learning on Boston Housing Dataset
 
 For this project, I used the Boston Housing Dataset. This dataset includes information on various features of houses in Boston, such as crime rate, property tax, average number of rooms, and the proximity to the Charles River. The target variable for regression is the Median House Value (in $1000s), and for classification, I categorized houses based on whether their price is above or below the median price of all houses in the dataset.
 
